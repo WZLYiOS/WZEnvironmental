@@ -1,0 +1,6 @@
+framework module Pods_WZEnvironmental_Example {
+  umbrella header "Pods-WZEnvironmental_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module WZEnvironmental {
+  umbrella header "WZEnvironmental-umbrella.h"
+
+  export *
+  module * { export * }
+}

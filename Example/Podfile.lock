@@ -1,0 +1,16 @@
+PODS:
+  - WZEnvironmental (0.1.0)
+
+DEPENDENCIES:
+  - WZEnvironmental (from `../`)
+
+EXTERNAL SOURCES:
+  WZEnvironmental:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZEnvironmental: c8fd6e1e4d28e2777ac550cb1b204be1334b614e
+
+PODFILE CHECKSUM: b89bc3ed186ab747eb745eff555d07ad7274cf2e
+
+COCOAPODS: 1.10.0

@@ -1,2 +1,25 @@
 # WZEnvironmental
-我主良缘环境酷
+
+[![CI Status](https://img.shields.io/travis/327847390@qq.com/WZEnvironmental.svg?style=flat)](https://travis-ci.org/327847390@qq.com/WZEnvironmental)
+[![Version](https://img.shields.io/cocoapods/v/WZEnvironmental.svg?style=flat)](https://cocoapods.org/pods/WZEnvironmental)
+[![License](https://img.shields.io/cocoapods/l/WZEnvironmental.svg?style=flat)](https://cocoapods.org/pods/WZEnvironmental)
+[![Platform](https://img.shields.io/cocoapods/p/WZEnvironmental.svg?style=flat)](https://cocoapods.org/pods/WZEnvironmental)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+WZEnvironmental is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'WZEnvironmental'
+```
+
+## License
+
+WZEnvironmental is available under the MIT license. See the LICENSE file for more info.
