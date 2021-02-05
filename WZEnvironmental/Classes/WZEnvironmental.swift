@@ -37,7 +37,7 @@ public enum EnvironmentalModel: Int, CaseIterable {
     
     /// allCases
     public static var allCases: [EnvironmentalModel] {
-        return [.debug, .adhoc]
+        return [.debug, .adhoc, .release]
     }
 }
 
