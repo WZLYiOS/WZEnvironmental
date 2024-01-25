@@ -20,6 +20,7 @@ public enum EnvironmentalModel: Int, CaseIterable {
     case debug = 1
     case adhoc = 2
     case release = 3
+    case test = 4
     
     
     /// 标题
@@ -29,6 +30,8 @@ public enum EnvironmentalModel: Int, CaseIterable {
             return "开发环境"
         case .adhoc:
             return "预发环境"
+        case .test:
+            return "测试环境"
         default:
             return "正式环境"
         }
@@ -37,7 +40,7 @@ public enum EnvironmentalModel: Int, CaseIterable {
     
     /// allCases
     public static var allCases: [EnvironmentalModel] {
-        return [.debug, .adhoc, .release]
+        return [.debug, .adhoc, .release, .test]
     }
 }
 
