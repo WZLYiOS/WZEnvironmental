@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WZEnvironmental'
-  s.version          = '0.2.2'
+  s.version          = '0.2.3'
   s.summary          = 'A short description of WZEnvironmental.'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.环境配置

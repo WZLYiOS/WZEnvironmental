@@ -56,7 +56,7 @@ public class Environment {
         #if DEBUG
         return true
         #elseif ADHOC
-        return false
+        return true
         #else
         return false
         #endif
