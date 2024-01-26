@@ -8,10 +8,10 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WZEnvironmental'
-  s.version          = '0.2.3'
+  s.version          = '0.2.4'
   s.summary          = 'A short description of WZEnvironmental.'
   s.description      = <<-DESC
-TODO: Add long description of the pod here
+TODO: Add long description of the pod hereaaaa
                        DESC
 
   s.homepage         = 'https://github.com/WZLYiOS/WZEnvironmental'
